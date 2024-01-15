@@ -386,6 +386,90 @@ list-style: none;
     font-size: 12px;
 }
 
+    #main>#wel
+{
+    padding-left: 25px;
+    
+}
+#main>#wel>h1
+{
+    font-size:13px;
+}
+#main>#wel>p
+{
+    font-size: 16px;
+}
+
+#main>#what
+{
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+#main>#what>h3
+{
+    font-size:19px;
+}
+#main>#what>p
+{
+    font-size: 15px;
+}
+
+#main>#why
+{
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+#main>#why>h3
+{
+    font-size:19px;
+}
+#main>#why>p
+{
+    font-size: 15px;
+    
+}
+    #eng>h1
+{
+    background-color: rgba(104, 77, 224, 0.822);
+    padding: 6px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+    #tam>h1
+{
+    background-color: rgba(104, 77, 224, 0.822);
+    padding: 6px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#mar>h1
+{
+    background-color: rgba(104, 77, 224, 0.822);
+    padding: 6px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+    #hin>h1
+{
+    background-color: rgba(104, 77, 224, 0.822);
+    padding: 6px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
 #footer
 {
     width: 100%;
@@ -413,7 +497,7 @@ padding-right: 18px;
 #foot>div>ul>li
 {
     line-height: 27px;
-    font-size: 18px;
+    font-size: 15px;
 }
 #foot>div>ul>.e
 {
